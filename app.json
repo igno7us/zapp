@@ -2,7 +2,7 @@
   "expo": {
     "name": "lenceriaz",
     "slug": "lenceriaz",
-    "version": "2.0.3",
+    "version": "2.0.6",
     "orientation": "portrait",
     "icon": "./assets/splash.png",
     "userInterfaceStyle": "light",
@@ -12,19 +12,14 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true,
-      "newArchEnabled": true
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
-        "backgroundColor": "#ffffff",
-        "newArchEnabled": true
+        "backgroundColor": "#ffffff"
       },
       "package": "com.igno7us.lenceriaz"
-    },
-    "web": {
-      "favicon": "./assets/ "
     },
     "extra": {
       "eas": {
